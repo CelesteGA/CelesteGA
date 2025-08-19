@@ -15,53 +15,59 @@ I am passionate about learning and improving my skills in the field of technolog
   - 🎵 Listening to music  
   - 📖 Reading books  
   - 🍃 Spending time outdoors  
-- 📫 Reach out to me at:
+- 📫 Reach out to me at:  
 
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
 
 - **Languages**:
 
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-1D9BF0?style=for-the-badge&logo=python&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-009DC4?style=for-the-badge&logo=php&logoColor=white)
 
 - **Front-End Development**:
 
-    ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-    ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-    ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-009DC4?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-009DC4?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-00B7C2?style=for-the-badge&logo=javascript&logoColor=white)
+    ![React](https://img.shields.io/badge/React-00B7C2?style=for-the-badge&logo=react&logoColor=white)
+    ![Vue.js](https://img.shields.io/badge/Vue.js-00B7C2?style=for-the-badge&logo=vuedotjs&logoColor=white)
+    ![Angular](https://img.shields.io/badge/Angular-00B7C2?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Back-End Development**:
 
-    ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/Node.js-00B7C2?style=for-the-badge&logo=node.js&logoColor=white)
+    ![NestJS](https://img.shields.io/badge/NestJS-00B7C2?style=for-the-badge&logo=nestjs&logoColor=white)
 
 - **Databases**:
 
-    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-00B7C2?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B7C2?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Softwares and Tools**:
 
-    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-00B7C2?style=for-the-badge&logo=github&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-00B7C2?style=for-the-badge&logo=figma&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-00B7C2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Mobile App Development**:
 
-    ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-00B7C2?style=for-the-badge&logo=android&logoColor=white)
+    ![Flutter](https://img.shields.io/badge/Flutter-00B7C2?style=for-the-badge&logo=flutter&logoColor=white)
 
 </p>
 
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=CelesteGA&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CelesteGA) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CelesteGA&theme=material-palenight)](https://github.com/CelesteGA) </div> 
+<p align = "center"> 
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/> </p>
+
 
